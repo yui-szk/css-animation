@@ -6,4 +6,4 @@ CSS animation code repository
 
 Text is displayed bouncing character by character
 
-<img src="./demo-movie/text-bound-demo.gif" alt="text-bound-demo" width=600>
+<img src="./demo-movie/text-bound-demo.gif" alt="text-bound-demo" width=500>
